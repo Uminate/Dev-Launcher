@@ -52,14 +52,35 @@ captures/
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
-# Freeline
-freeline.py
-freeline/
-freeline_project_description.json
+.gradle
+*.iml
+.idea
+app/release
+local.properties
+.DS_Store
+app/build
+captures
+.externalNativeBuild
+app/.cxx
+app.iml
+*.iml
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+obj/
+gen/
+local.properties
+.classpath
+.project
+proguard/
+*.ipr
+*.iws
+.idea/
+.vs
+.vscode
+build/
+build
+EasyBeat.Android/build/build-attribution/androidGradlePluginAttributionData
 
-# fastlane
-fastlane/report.xml
-fastlane/Preview.html
-fastlane/screenshots
-fastlane/test_output
-fastlane/readme.md

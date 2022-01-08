@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item
+		android:id="@+id/developer_button"
+		android:icon="@drawable/ic_developer_mode"
+		android:showAsAction="ifRoom"
+		android:title="@string/for_developers" />
+
+	<item
+		android:id="@+id/launcher_button"
+		android:icon="@drawable/ic_launcher"
+		android:showAsAction="ifRoom"
+		android:title="@string/change_launcher" />
+
+	<item
+		android:id="@+id/refresh_button"
+		android:icon="@drawable/ic_refresh"
+		android:showAsAction="ifRoom"
+		android:title="@string/refresh_app" />
+
+	<item
+		android:id="@+id/settings_button"
+		android:icon="@drawable/ic_settings"
+		android:showAsAction="ifRoom"
+		android:title="@string/settings" />
+</menu>

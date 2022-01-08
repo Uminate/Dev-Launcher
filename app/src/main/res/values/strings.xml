@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">List Launcher</string>
-    <string name="home">Home</string>
-    <string name="drawer">Drawer</string>
+	<string name="app_name">Dev Launcher</string>
+	<string name="for_developers">Для разработчиков</string>
+	<string name="settings">Настройки</string>
+	<string name="delete">Удалить</string>
+	<string name="change_launcher">Сменить лаунчер</string>
+	<string name="refresh_app">Обновить приложения</string>
 </resources>
