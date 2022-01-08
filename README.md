@@ -1,4 +1,4 @@
-# List-Launcher
+# Dev-Launcher
 
 A launcher application is an ambitious project which requires a lot of time, effort and knowledge. Therefore it's unclear whether or not this project will ever get published.
 
